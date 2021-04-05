@@ -1,6 +1,6 @@
 {
-    "name": "Progressive Selfies",
-    "short_name": "PWA Selfies",
+    "name": "Medical Consultation Transcripts",
+    "short_name": "Med. Transcripts",
     "icons": [
         {
             "src": "src/images/icons/app-icon-48x48.png",
@@ -44,7 +44,7 @@
     "orientation": "portrait-primary",
     "background_color": "#fff",
     "theme_color": "#3f51b5",
-    "description": "Take selfies PWA style.",
+    "description": "Take transcripts of doctor-patient consultation.",
     "dir": "ltr",
     "lang": "en-US"
 }
