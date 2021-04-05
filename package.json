@@ -1,7 +1,7 @@
 {
     "name": "fe-guild-2019-pwa",
     "version": "1.0.0",
-    "description": "Solution for the FE Guild 2019 PWA Workshop code labs.",
+    "description": "Solution for Medical Transcripts.",
     "scripts": {
         "start": "http-server -c-1",
         "deploy": "gh-pages -d fe-guild-2019-pwa"
@@ -10,14 +10,15 @@
         "type": "git",
         "url": "git+https://github.com/raduenuca/fe-guild-2019-pwa.git"
     },
-    "author": "Radu Enuca",
-    "license": "ISC",
+    "author": "Anirvan Basu",
+    "license": "MIT",
     "bugs": {
-        "url": "https://github.com/raduenuca/fe-guild-2019-pwa/issues"
+        "url": "https://github.com/nirvanesque/fe-guild-2019-pwa/issues"
     },
-    "homepage": "https://github.com/raduenuca/fe-guild-2019-pwa#readme",
+    "homepage": "https://github.com/nirvanesque/fe-guild-2019-pwa#readme",
     "devDependencies": {
-        "gh-pages": "^2.0.1",
-        "http-server": "^0.11.1"
+        "gh-pages": "^3.1.0",
+        "http-server": "^0.12.3",
+        "workbox-cli": "^6.1.2"
     }
 }
